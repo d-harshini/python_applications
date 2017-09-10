@@ -1,4 +1,4 @@
 # didactic-train
-Hello there,
-I dont understand why im on GitHub considering the fact that i'm more of an artistc person.
-Just kidding, I can be anything and am anything I want to be
+A repository with two .py files.
+1. Game of life - This is my first project ever done using Python and hence, do cut me some slack.
+2. Flashcard - A bit more of an advanced Python program wich I had a lot of fun coding.
